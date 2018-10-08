@@ -1,6 +1,9 @@
 # whats_app
 
-A new Flutter project.
+First flutter project, wanted to give the framework a testdrive. I am very impressed.
+
+#Tutorial video 
+https://www.youtube.com/watch?v=2Tyrofn6zPg&t=18s
 
 ## Getting Started
 

@@ -1,4 +1,4 @@
-# whats_app
+# whats_app clone
 
 First flutter project, wanted to give the framework a testdrive. I am very impressed.
 
